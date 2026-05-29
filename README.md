@@ -1,16 +1,16 @@
 
-# 🖥️ MCP Server
+#  MCP Server
 
 A Model Context Protocol (MCP) server built for the ENST Bot, enabling seamless integration between LLM agents and external tools.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - Java
 - Spring Boot
 - MCP Protocol
 - Maven
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 mcp-server/
