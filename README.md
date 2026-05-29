@@ -20,10 +20,8 @@ mcp-server/
 │   │   ├── java/
 │   │   │   └── org/
 │   │   │       └── example/
-│   │   │           ├── controller/
-│   │   │           ├── service/
-│   │   │           ├── model/
-│   │   │           └── config/
+│   │   │           ├── tools/
+│   │   │           
 │   │   │
 │   │   └── resources/
 │   │       └── application.properties
